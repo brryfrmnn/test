@@ -1,0 +1,14 @@
+{
+    "name": "brryfrmnn/excel-validator",
+    "description": "Just test",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.17"
+    },
+    "autoload": {
+        "psr-4": {
+            "Brryfrmnn\\Test2\\": "src/"
+        }
+    }   
+}
